@@ -1,0 +1,10 @@
+ 
+package-as: FrameColor_Skin_BetterWardrobe
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+ignore:
+    - CHANGELOG.md
+

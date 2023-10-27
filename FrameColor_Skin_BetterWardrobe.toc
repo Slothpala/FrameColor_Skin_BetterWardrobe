@@ -1,0 +1,8 @@
+## Interface: 100107
+## Version: 1
+## Title: FrameColor_Skin_BetterWardrobe
+## Author: Slothpala
+## Dependencies: BetterWardrobe, FrameColor
+
+FrameColor_Skin_BetterWardrobe.lua
+
