@@ -3,6 +3,7 @@
 ## Title: FrameColor_Skin_BetterWardrobe
 ## Author: Slothpala
 ## Dependencies: BetterWardrobe, FrameColor
+## X-Curse-Project-ID: 928396
 
 FrameColor_Skin_BetterWardrobe.lua
 
