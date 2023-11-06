@@ -1,4 +1,6 @@
 # **Changelog**
+### Version [1.0.2] - 2023-11-06
+* increased timer for first load for slower hardware
 
 ### Version [1.0.1] - 2023-11-06
 #### Changed 

@@ -40,7 +40,7 @@ function module:OnEnable()
         else
             color4 = dbObj.color4
         end
-		C_Timer_After(0.25, function()
+		C_Timer_After(0.5, function()
             bw_loaded = true
             self:Recolor(color1, color2, color3, color4, 1)
 		 end)
